@@ -1,0 +1,19 @@
+1. Height of DARTH VADER
+    https://swapi.dev/api/people/4  -202
+2. Population of Alderaan
+    https://swapi.dev/pi/planets/2  2000000000
+3.Manufacturer of the Millennium Falcon
+    https://swapi.dev/api/starships/10  Corellian Engineering Corporation
+4. c3po
+    https://swapi.dev/api/people/2/
+    https://swapi.dev/api/species/2/ - Droid
+5. Obi-Wan Titles
+    https://swapi.dev/api/people?search=obi 
+        "https://swapi.dev/api/films/1/",
+        "https://swapi.dev/api/films/2/",
+        "https://swapi.dev/api/films/3/",
+        "https://swapi.dev/api/films/4/",
+        "https://swapi.dev/api/films/5/",
+        "https://swapi.dev/api/films/6/"
+6.Search for the Falcon
+    https://swapi.dev/api/starships/?search=falcon
